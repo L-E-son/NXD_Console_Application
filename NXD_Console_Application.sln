@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2010
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXD_Console_Application", "NXD_Console_Application\NXD_Console_Application.csproj", "{9398A46A-4076-4A27-B1EA-236FB2D15611}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NXD_Console_ApplicationTests", "NXD_Console_ApplicationTests\NXD_Console_ApplicationTests.csproj", "{99522FEB-C1A4-4D82-A141-078888344F46}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9398A46A-4076-4A27-B1EA-236FB2D15611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9398A46A-4076-4A27-B1EA-236FB2D15611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9398A46A-4076-4A27-B1EA-236FB2D15611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9398A46A-4076-4A27-B1EA-236FB2D15611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{99522FEB-C1A4-4D82-A141-078888344F46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99522FEB-C1A4-4D82-A141-078888344F46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99522FEB-C1A4-4D82-A141-078888344F46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99522FEB-C1A4-4D82-A141-078888344F46}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C30DB9DC-3D15-4A18-9207-171F5EE2F9CB}
+	EndGlobalSection
+EndGlobal
